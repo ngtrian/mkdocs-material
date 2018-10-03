@@ -2464,7 +2464,7 @@ hr {
               transform-origin: 0.45em 0.45em;
       -webkit-transform-style: preserve-3d;
               transform-style: preserve-3d;
-      vertical-align: -0.125em; }
+      vertical-align: middle; }
       .js .md-nav__item--nested > .md-nav__link::after {
         transition: -webkit-transform 0.4s;
         transition: transform 0.4s;
